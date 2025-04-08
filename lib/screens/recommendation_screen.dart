@@ -34,7 +34,7 @@ class _RecommendationScreenState extends State<RecommendationScreen> {
 
     try {
       final response = await http.post(
-        Uri.parse('.1.7:5001/recommend'),
+        Uri.parse('http://192.168.1.100:5001/recommend'),
         headers: {'Content-Type': 'application/json'},
         body: jsonEncode({'query': query}),
       );
@@ -118,3 +118,4 @@ class _RecommendationScreenState extends State<RecommendationScreen> {
     );
   }
 }
+

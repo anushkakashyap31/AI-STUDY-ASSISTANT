@@ -25,3 +25,4 @@ flashcards = Table(
 )
 
 metadata.create_all(pg_engine)
+

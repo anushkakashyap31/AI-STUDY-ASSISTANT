@@ -11,3 +11,4 @@ badges = {
     "consistent_learner": Badge("Consistent Learner", "Logged in 5 days", "🔥"),
     "flashcard_pro": Badge("Flashcard Pro", "Reviewed 20 flashcards", "📚"),
 }
+

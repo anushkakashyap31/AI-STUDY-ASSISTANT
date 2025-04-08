@@ -24,3 +24,4 @@ def check_rewards(user_data):
         })
 
     return {"badges": earned}
+

@@ -16,3 +16,4 @@ Future<String> getBotResponse(String message) async {
     throw Exception('Failed to get response from chatbot');
   }
 }
+
