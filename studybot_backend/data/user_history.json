@@ -1,0 +1,24 @@
+[
+    {
+      "user_id": "U1",
+      "content_id": "C1",
+      "topic": "Machine Learning",
+      "score": 4,
+      "preferred_type": "flashcard"
+    },
+    {
+      "user_id": "U1",
+      "content_id": "C2",
+      "topic": "AI",
+      "score": 5,
+      "preferred_type": "video"
+    },
+    {
+      "user_id": "U2",
+      "content_id": "C3",
+      "topic": "DSA",
+      "score": 3,
+      "preferred_type": "quiz"
+    }
+  ]
+  
